@@ -14,10 +14,13 @@ h1{
     background-color:white;
     font-family:arial;
     color:black;
-    width : 300px;
+    width : 450px;
     padding:20px;
     border-radius : 25px;
     align-items:center;
+    position : absolute;
+    top:50%;
+    left:50%;
 
 }
 /*styling of the input elements*/
