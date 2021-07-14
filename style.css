@@ -1,12 +1,15 @@
+/*styling of the body */ 
 body {
     background-color:black;
     font-family:arial;
     color:white;
 }
+/*styling of the title */ 
 h1{
     color:grey;
     font-family:verdana;
 }
+/* styling of the div*/ 
 .maindiv {
     background-color:white;
     font-family:arial;
@@ -16,4 +19,8 @@ h1{
     border-radius : 25px;
     align:center;
 
+}
+/*styling of the input elements*/
+.maindiv input {
+    margin-left:50px;
 }
